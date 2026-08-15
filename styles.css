@@ -75,7 +75,7 @@ object-position: center;
 
 .social-links {
   display: flex;
-  flex-direction: row; /* the one deliberate horizontal row on the page */
+  flex-direction: row;
   gap: 1rem;
 }
 
